@@ -1,0 +1,14 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "React Test",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Andrey Bar",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
